@@ -1,0 +1,6 @@
+{
+  "name": "Vortex ID - Gaming Store",
+  "description": "Platform jual-beli akun gaming terpercaya dengan transaksi aman, verifikasi QRIS, nota otomatis, dan tema dinamis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
